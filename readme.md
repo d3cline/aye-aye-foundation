@@ -60,6 +60,7 @@ The foundation is led by three dedicated chairpersons, each with distinct respon
    - Smart contract-based fund management.
    - Web2 dispute resolution with on-chain transparency.
    - Privacy-preserving payment options like Monero.
+   - Interfaces with web2 APIs and traditional LLC legal frameworks
 
 ### **3. Point of Sale (POS)** (In Development)  
    A modern POS system for hybrid commerce.  
