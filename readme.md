@@ -63,13 +63,12 @@ The foundation is led by three dedicated chairpersons, each with distinct respon
    - Interfaces with web2 shipping APIs and traditional LLC legal frameworks.
 
 ### **3. Point of Sale (POS)** (In Development)  
-   A modern POS system for hybrid commerce.  
+   A modern POS system for hybrid commerce.
    **Key Features**:
-   - Multi-currency support (fiat and crypto).
-   - Offline functionality for uninterrupted operations.
    - QoS and network priorty routing. Cloud operations for wifi blanket coverage. 
-   - Real-time inventory sync with online stores.
    - Buy and sell on-chain gift cards or crypto in local shops.
+   - Use off the shelf hardware and walet tech to bootstrap in remote regions.
+   - More of a standard and less of a codebase.
 
 ---
 
