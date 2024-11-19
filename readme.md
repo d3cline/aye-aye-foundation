@@ -55,12 +55,12 @@ The foundation is led by three dedicated chairpersons, each with distinct respon
    - Minimalist and extensible design.
 
 ### **2. Escrow System** (In Development)  
-   A hybrid escrow solution combining blockchain transparency with Web2 compliance.  
+   A hybrid escrow solution combining blockchain transparency with Web2 compliance. Shippment fullfillment and escrow. 
    **Key Features**:
    - Smart contract-based fund management.
    - Web2 dispute resolution with on-chain transparency.
    - Privacy-preserving payment options like Monero.
-   - Interfaces with web2 APIs and traditional LLC legal frameworks
+   - Interfaces with web2 shipping APIs and traditional LLC legal frameworks.
 
 ### **3. Point of Sale (POS)** (In Development)  
    A modern POS system for hybrid commerce.  
