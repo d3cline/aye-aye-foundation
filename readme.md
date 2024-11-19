@@ -67,6 +67,7 @@ The foundation is led by three dedicated chairpersons, each with distinct respon
    **Key Features**:
    - Multi-currency support (fiat and crypto).
    - Offline functionality for uninterrupted operations.
+   - QoS and network priorty routing. Cloud operations for wifi blanket coverage. 
    - Real-time inventory sync with online stores.
 
 ---
