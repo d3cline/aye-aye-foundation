@@ -55,7 +55,7 @@ The foundation is led by three dedicated chairpersons, each with distinct respon
    - Minimalist and extensible design.
 
 ### **2. Escrow System** (In Development)  
-   A hybrid escrow solution combining blockchain transparency with Web2 compliance. Shippment fullfillment and escrow and logistics.
+   A hybrid escrow solution combining blockchain transparency with Web2 compliance. Shippment fullfillment, escrow, and logistics.
    
    **Key Features**:
    - Smart contract-based fund management.
