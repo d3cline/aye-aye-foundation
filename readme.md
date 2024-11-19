@@ -69,6 +69,7 @@ The foundation is led by three dedicated chairpersons, each with distinct respon
    - Offline functionality for uninterrupted operations.
    - QoS and network priorty routing. Cloud operations for wifi blanket coverage. 
    - Real-time inventory sync with online stores.
+   - Process on-chain gift cards in local shops.
 
 ---
 
