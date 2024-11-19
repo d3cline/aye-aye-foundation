@@ -29,17 +29,17 @@ The **Aye-Aye Software Foundation** is a community-driven initiative dedicated t
 ## **Governance**
 The foundation is led by three dedicated chairpersons, each with distinct responsibilities:
 
-### **1. Lead Architect**
+### **1. Lead Architect** (John Spounias) 
    - Defines the technical vision and roadmap.
    - Ensures projects align with the foundation's principles.
    - Provides guidance to maintainers and reviews contributions.
 
-### **2. Community Chair**
+### **2. Community Chair** (COULD BE YOU!)
    - Fosters community engagement and collaboration.
    - Organizes events like hackathons and workshops.
    - Acts as the voice of the developer community within the foundation.
 
-### **3. Operations and Compliance Chair**
+### **3. Operations and Compliance Chair** (COULD BE YOU!)
    - Handles legal, financial, and operational aspects.
    - Manages partnerships and documentation.
    - Ensures projects remain transparent and accessible.
@@ -92,4 +92,4 @@ Let’s create a future where open-source is the backbone of the digital economy
 **Contact Us**:  
 Website: ayeaye.cloud
 Email: team@ayeaye.cloud
-GitHub: [github.com/aye-aye-foundation](https://github.com/aye-aye-foundation)
+GitHub: [github.com/aye-aye-foundation](https://github.com/d3cline/aye-aye-foundation)
