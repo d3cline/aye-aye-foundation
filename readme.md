@@ -70,6 +70,7 @@ The foundation is led by three dedicated chairpersons, each with distinct respon
    - QoS and network priorty routing. Cloud operations for wifi blanket coverage. 
    - Buy and sell on-chain gift cards or crypto in local shops.
    - Use off the shelf hardware and walet tech to bootstrap in remote regions.
+   - Cash back systems to distribute wealth.
    - More of a standard and less of a codebase.
 
 ---
