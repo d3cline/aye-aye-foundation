@@ -65,6 +65,7 @@ The foundation is led by three dedicated chairpersons, each with distinct respon
 
 ### **3. Point of Sale (POS)** (In Development)  
    A modern POS system for hybrid commerce.
+   
    **Key Features**:
    - QoS and network priorty routing. Cloud operations for wifi blanket coverage. 
    - Buy and sell on-chain gift cards or crypto in local shops.
