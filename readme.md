@@ -73,7 +73,7 @@ The foundation is led by three dedicated chairpersons, each with distinct respon
 ## **Aye-Aye Mascot**
 The aye-aye, a nocturnal lemur from Madagascar, symbolizes our commitment to resilience and innovation. Much like our software, the aye-aye thrives in challenging environments, proving that even the most underestimated can excel.  
 
-![Aye-Aye Logo](logo.png)
+![Aye-Aye Logo](ayeaye.png)
 
 ---
 
