@@ -1,7 +1,9 @@
 # Aye-Aye Software Foundation
 
 ## **Introduction**
-The **Aye-Aye Software Foundation** is a community-driven initiative dedicated to building practical, adaptable, and open-source solutions for the modern digital economy. Inspired by the aye-aye, a misunderstood and resilient creature, our mission is to create tools that are as unique and durable as our namesake.
+The **Aye-Aye Software Foundation** is a community-driven initiative dedicated to building practical, adaptable, and open-source solutions for the modern digital economy. 
+Setting standards of quality.
+Inspired by the aye-aye, a misunderstood and resilient creature, our mission is to create tools that are as unique and durable as our namesake.
 
 ---
 
@@ -67,11 +69,9 @@ The foundation is led by three dedicated chairpersons, each with distinct respon
    A modern POS system for hybrid commerce.
    
    **Key Features**:
-   - QoS and network priorty routing. Cloud operations for wifi blanket coverage. 
-   - Buy and sell on-chain gift cards or crypto in local shops.
-   - Use off the shelf hardware and walet tech to bootstrap in remote regions.
+   - QoS and network priorty routing.
+   - Mint NFC gift cards/hardware wallets with crypto.
    - Cash back systems to distribute wealth.
-   - More of a standard and less of a codebase.
 
 ---
 
