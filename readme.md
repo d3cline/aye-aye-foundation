@@ -65,8 +65,8 @@ The foundation is led by three dedicated chairpersons, each with distinct respon
    - Privacy-preserving payment options like Monero.
    - Interfaces with web2 shipping APIs and traditional LLC legal frameworks.
 
-### **3. Point of Sale (POS)** (In Development)  
-   A modern POS SOP.
+### **3. Point of Sale (POS)** 
+   A modern POS SOP. (this was going to be software, but NFC215 is great and repalced it)
    
    **Key Features**:
    - NFC215 tap to pay.
