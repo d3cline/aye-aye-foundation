@@ -66,12 +66,12 @@ The foundation is led by three dedicated chairpersons, each with distinct respon
    - Interfaces with web2 shipping APIs and traditional LLC legal frameworks.
 
 ### **3. Point of Sale (POS)** (In Development)  
-   A modern POS system for hybrid commerce.
+   A modern POS SOP.
    
    **Key Features**:
-   - QoS and network priorty routing.
-   - Mint NFC gift cards/hardware wallets with crypto.
-   - Cash back systems to distribute wealth.
+   - NFC215 tap to pay.
+   - Helping people learn to do this.
+   - SOP.
 
 ---
 
